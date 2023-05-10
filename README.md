@@ -1,8 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently working on Data Analysis, Machine Learning 
-🌱 I’m currently learning ML Ops
-📫 How to reach me: Mobile @+91-8639554619, email- swamynaiduoffice@gmail.com
-😄 Pronouns: He/Him
+
+-🔭 I’m currently working on Data Analysis, Machine Learning 
+
+-🌱 I’m currently learning ML Ops
+
+-📫 How to reach me: Mobile @+91-8639554619, email- swamynaiduoffice@gmail.com
+
+-😄 Pronouns: He/Him
 <!--
 **SwamyNaiduLenka/SwamyNaiduLenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
