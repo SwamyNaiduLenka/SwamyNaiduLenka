@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🔭 I’m currently working on Data Science, Machine Learning 
+-🔭 I’m currently working on Data Science, AI/Machine Learning 
 
 -🌱 I’m currently learning ML Ops
 
