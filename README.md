@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--🔭 I’m Big Data Developer, currently working on Data Science, AI/Machine Learning 
+-🔭 I’m Big Data Developer, interested in Data Science, AI/Machine Learning. 
 
--🌱 I’m currently learning ML Ops
+-🌱 A passionate Stock Market Trader trying to build stratagies for Algo Trading.
 
 -📫 How to reach me: Mobile @+91-8639554619, email- swamynaiduoffice@gmail.com
 
