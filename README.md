@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🔭 I’m Big Data Develper, currently working on Data Science, AI/Machine Learning 
+-🔭 I’m Big Data Developer, currently working on Data Science, AI/Machine Learning 
 
 -🌱 I’m currently learning ML Ops
 
