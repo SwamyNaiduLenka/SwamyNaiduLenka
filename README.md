@@ -4,7 +4,7 @@
 
 -🌱 A passionate Stock Market Trader trying to build strategies for Algo Trading.
 
--📫 How to reach me: Mobile @+91-8639554619, email- swamynaiduoffice@gmail.com
+-📫 How to reach me: Mobile @+91-8639554619, email- swamynaidulenka99@gmail.com
 
 -😄 Pronouns: He/Him
 <!--
