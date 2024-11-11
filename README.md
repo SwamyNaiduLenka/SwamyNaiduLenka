@@ -2,7 +2,7 @@
 
 -🔭 I’m Big Data Developer, interested in Data Science, AI/Machine Learning. 
 
--🌱 A passionate Stock Market Trader trying to build stratagies for Algo Trading.
+-🌱 A passionate Stock Market Trader trying to build strategies for Algo Trading.
 
 -📫 How to reach me: Mobile @+91-8639554619, email- swamynaiduoffice@gmail.com
 
