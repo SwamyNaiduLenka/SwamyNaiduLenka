@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🔭 I’m Big Data Developer, interested in Data Science, AI/Machine Learning. 
+-🔭 I’m Big Data Developer. 
 
 -🌱 A passionate Stock Market Trader
 
